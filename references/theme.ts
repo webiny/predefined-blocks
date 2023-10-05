@@ -19,12 +19,10 @@ export const colors = {
     color4: "#616161", // Text secondary.
     color5: "#eaecec", // Background.
     color6: "#ffffff", // White background.
-    // Backwards compatibility.
-    "var(--webiny-theme-color-primary)": "#fa5723",
-    "var(--webiny-theme-color-secondary)": "#00ccb0",
-    "var(--webiny-theme-color-background)": "#eaecec",
-    "var(--webiny-theme-color-surface)": "#ffffff",
-    "var(--webiny-theme-color-text-primary)": "#0a0a0a"
+    orangeGreyBg: "#F6F4F8", // orange grey background
+    liteOrange: '#FFEFEA',
+    darkBlue: '#190930',
+    lightBlue: '#161C3C',
 };
 
 // Fonts.
