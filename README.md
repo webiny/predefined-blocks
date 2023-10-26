@@ -3,7 +3,4 @@ A free [library of over 100+ pre-built visual blocks](https://blocks.webiny.com/
 
 If you have a request for a new block or would like to report an improvement/bug in the existing blocks, please create an [issue in this repository](https://github.com/webiny/predefined-blocks/issues).
 
-![demo blocks](https://github.com/webiny/predefined-blocks/assets/7145848/6242c6d6-af1e-4d4f-9df0-44f61eb4b9b3)
-
-
-
+![demo blocks](./assets/cover.png)
